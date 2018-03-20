@@ -20,11 +20,9 @@ get out of su and install rest with OPAM
 exit
 
 opam init
-
 eval `opam config env`
 
 opam switch
-
 opam switch 4.06.1
 eval `opam config env`
 ```
