@@ -28,13 +28,12 @@ eval `opam config env`
 opam switch
 
 opam switch 4.06.1
-
+eval `opam config env`
 ```
 This will take a while.
 You can then install other programs via opam, e.g. utop
 ```
 opam install utop
-
 ```
 
 
