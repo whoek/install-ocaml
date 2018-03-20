@@ -1,9 +1,7 @@
-# install-ocaml
 
-# AWS EC2
+# Install OCaml on Amazon Linux (EC2)
 
 AMI: Amazon Linux 2 LTS Candidate AMI 2017.12.0 (HVM)
-
 
 if new image update & upgrade
 ```
