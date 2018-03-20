@@ -29,6 +29,10 @@ opam switch
 
 opam switch 4.06.1
 
+```
+This will take a while.
+You can then install other programs via opam, e.g. utop
+```
 opam install utop
 
 ```
