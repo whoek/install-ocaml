@@ -31,6 +31,11 @@ You can then install other programs via opam, e.g. utop
 ```
 opam install utop
 ```
+CURRENTLY UNABLE TO INSTALL CORE
+```
+opam install core
+```
+
 
 
 
